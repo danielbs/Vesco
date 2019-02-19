@@ -4,4 +4,8 @@
 $(function() {
     //animate on scroll
     new WOW().init();
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 2b21d5c7d8c99d1a0e8a8b1d241663d1574b8ea7
